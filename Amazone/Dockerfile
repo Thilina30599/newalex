@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/jesonpro/ALEXA /root/ales
+RUN git clone https://github.com/Thilina30599/newalex /root/ales
 WORKDIR /root/ales/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
