@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "Public-BOt®️"
+            "value": "👩‍🦰©Amazone Alexa"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By Public-BOt®️"
+            "value": "Made By 👩‍🦰Amazone Alexa"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -221,7 +221,7 @@
         "BUG_COMMAND": {
             "description": "Bug Command",
             "required": false,
-            "value": "pubug"
+            "value": "bug"
         },
         "TIME_ZONE": {
             "description": "type your time zone (pass this sri lankan users) ",
